@@ -1,10 +1,10 @@
 ---
 license: mit
 language:
-- ur
+ur
 pretty_name: urdu assistant
 size_categories:
-- 10K<n<100K
+10K<n<100K
 ---
 
 The UrduAssistant dataset provides a collection of dialogues between humans and an AI assistant, covering a wide range of topics. The dataset includes human queries and assistant responses in Urdu.
