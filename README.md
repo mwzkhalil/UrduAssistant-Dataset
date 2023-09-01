@@ -1,9 +1,3 @@
----
-license: mit
-language: ur
-size_categories: 10K<n<100K
----
-
 The UrduAssistant dataset provides a collection of dialogues between humans and an AI assistant, covering a wide range of topics. The dataset includes human queries and assistant responses in Urdu.
 
 ## Data Format
@@ -27,3 +21,10 @@ howpublished = {\url{https://huggingface.co/datasets/mwz/UrduAssistant}},
 ```
 
 For questions or inquiries about the dataset khalilmahwiz@gmail.com
+
+
+---
+license: mit
+language: ur
+size_categories: 10K<n<100K
+---
