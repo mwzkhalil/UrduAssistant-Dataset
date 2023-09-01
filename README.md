@@ -19,10 +19,5 @@ publisher = {Hugging Face},
 howpublished = {\url{https://huggingface.co/datasets/mwz/UrduAssistant}},
 }
 ```
----
-license: mit
-language: ur
-size_categories: 10K<n<100K
----
 
 For questions or inquiries about the dataset khalilmahwiz@gmail.com
